@@ -142,6 +142,7 @@ This is a learning project for Rust practice.
 ## Contributions
 
 Issue and PR welcome!
+1
 
 ## Acknowledgement
 
